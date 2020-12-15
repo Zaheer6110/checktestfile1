@@ -1,0 +1,1787 @@
+[
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 1,
+    "__1": "Dunya News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 2,
+    "__1": "Lahore News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 3,
+    "__1": "Dunya International",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 4,
+    "__1": "Dunya Entertainment HD",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "002 C 3737 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 Geo TV Network, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 5,
+    "__1": "Geo Super",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 6,
+    "__1": "Geo Tez",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 7,
+    "__1": "Geo News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 8,
+    "__1": "Ary News",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 9,
+    "__1": "Geo Kanani",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 10,
+    "__1": "Geo Middle East",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "003 C 3755 V 7500 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 Virtual University, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 11,
+    "__1": "Virtual TV 3",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 12,
+    "__1": "Virtual TV 4",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 13,
+    "__1": "Virtual TV 1",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 14,
+    "__1": "Virtual TV 2",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "004 C 3761 V 2900 5/6 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 15,
+    "__1": "Sindh TV News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 16,
+    "__1": "Sindh TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "005 C 3771 V 7700 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 17,
+    "__1": "City 41",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 18,
+    "__1": "24 News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 19,
+    "__1": "C 24",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 20,
+    "__1": "Rohi TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 21,
+    "__1": "City 44 UK",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "006 C 3778 V 2600 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 22,
+    "__1": "PTV Multan (1PM to 4PM)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 23,
+    "__1": "AJK TV (4PM to 11PM)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "007 C 3782 V 2200 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 24,
+    "__1": "Metro One News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "008 C 3785 V 2950 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 25,
+    "__1": "7 News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "009 C 3794 V 4443 2/3 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 26,
+    "__1": "Hum News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "010 C 3798 V 3200 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 27,
+    "__1": "Neo News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 28,
+    "__1": "Lahore Rang",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "011 C 3800 V 7200 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 Express News, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 29,
+    "__1": "Express News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 30,
+    "__1": "Express Music test card",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 31,
+    "__1": "Times",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 32,
+    "__1": "Express Entertainment",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "012 C 3809 V 7500 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 AB Sat, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 33,
+    "__1": "AVT Khyber",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 34,
+    "__1": "Khyber News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 35,
+    "__1": "Pashto 1",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 36,
+    "__1": "Kay 2",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "013 C 3818 V 6200 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 37,
+    "__1": "Film World",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 38,
+    "__1": "Filmax",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 39,
+    "__1": "Aruj TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 40,
+    "__1": "Test",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 41,
+    "__1": "LTN Family",
+    "__2": "TV",
+    "__3": "Cryptoworks"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 42,
+    "__1": "FW Middle East test card",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 43,
+    "__1": "Filmazia Global",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "014 C 3824 V 2800 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 44,
+    "__1": "Jalwa TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "015 C 3825 V 4800 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S2 Express Media Group, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 45,
+    "__1": "Express Music",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 46,
+    "__1": "Express Entertainment",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 47,
+    "__1": "Express News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "016 C 3831 V 2600 5/6 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 48,
+    "__1": "See TV HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "017 C 3834 H 6500 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 49,
+    "__1": "Apna Channel HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 50,
+    "__1": "Abb Takk HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 51,
+    "__1": "8XM HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "018 C 3852 V 3250 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 52,
+    "__1": "LTN Family",
+    "__2": "TV",
+    "__3": "Cryptoworks"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 53,
+    "__1": "Film World",
+    "__2": "TV",
+    "__3": "Cryptoworks"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 54,
+    "__1": "Aruj TV Entertainment",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 55,
+    "__1": "Filmax",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "019 C 3958 V 6400 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 56,
+    "__1": "Union TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 57,
+    "__1": "BTV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 58,
+    "__1": "Alert 24 News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 59,
+    "__1": "Royal Enter",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 60,
+    "__1": "Partys TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 61,
+    "__1": "Joo Movies",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 62,
+    "__1": "JK News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 63,
+    "__1": "Film Asia",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 64,
+    "__1": "Raaz News TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 65,
+    "__1": "Royal Taiz",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 66,
+    "__1": "SBI News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 67,
+    "__1": "Zindagi Cinema",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 68,
+    "__1": "Cinemachi Kids",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 69,
+    "__1": "Cinemachi Movies",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 70,
+    "__1": "Filmazia",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "020 C 3959 V 7234 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 71,
+    "__1": "Abb Takk",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 72,
+    "__1": "8XM",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "021 C 3979 V 3255 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 73,
+    "__1": "News Five",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "022 C 4003 V 15555 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S PTV Network, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 74,
+    "__1": "PTV Home",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 75,
+    "__1": "PTV News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 76,
+    "__1": "PTV World",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 77,
+    "__1": "Teleschool",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 78,
+    "__1": "PTV Sports",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "023 C 4017 V 3200 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 79,
+    "__1": "PNN News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "024 C 4023 V 5600 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 80,
+    "__1": "92 News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "025 C 4029 H 3600 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 81,
+    "__1": "Samaa News TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "026 C 4033 H 2400 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 82,
+    "__1": "Oxygene",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "027 C 4038 V 4800 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 83,
+    "__1": "Fujairah TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 84,
+    "__1": "House Full Action",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 85,
+    "__1": "E Entertainment",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 86,
+    "__1": "Pak Plus",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 87,
+    "__1": "Chanel 9 Pakistan",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 88,
+    "__1": "Golf One",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 89,
+    "__1": "Sahar Urdu",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 90,
+    "__1": "Azad TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 91,
+    "__1": "MLQ Movies",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 92,
+    "__1": "M4U Movies",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 93,
+    "__1": "GR 8 TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 94,
+    "__1": "Dhanak TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 95,
+    "__1": "A1 Entertainment TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 96,
+    "__1": "Champion TV (Pakistan)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 97,
+    "__1": "Movies 24",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 98,
+    "__1": "Xpose News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 99,
+    "__1": "Sub News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 100,
+    "__1": "Paigham TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 101,
+    "__1": "Gawahi TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 102,
+    "__1": "Grand TV UK",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 103,
+    "__1": "Tehzeeb TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 104,
+    "__1": "RC",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 105,
+    "__1": "Film TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "028 C 4038 H 6150 2/3 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 106,
+    "__1": "GNN",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "029 C 4042 V 2800 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 107,
+    "__1": "Neo News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "030 C 4047 V 4800 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 108,
+    "__1": "A Plus Pakistan",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 109,
+    "__1": "Noor TV UK",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 110,
+    "__1": "Waqt News TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 111,
+    "__1": "CineMax",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 112,
+    "__1": "Dil TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 113,
+    "__1": "Bolo",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 114,
+    "__1": "M4U Movies",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 115,
+    "__1": "GR8",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 116,
+    "__1": "Popular News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 117,
+    "__1": "Dhanak TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 118,
+    "__1": "A1 TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 119,
+    "__1": "Zindagi TV USA",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 120,
+    "__1": "E1 TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 121,
+    "__1": "VTV UK (PTN News)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 122,
+    "__1": "Premium TV (Movies 24)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 123,
+    "__1": "DM Cinema Asia (X Pose News)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 124,
+    "__1": "Raftar Europe (Sub News)",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 125,
+    "__1": "Cinema TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 126,
+    "__1": "Quran TV Pakistan",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 127,
+    "__1": "Mega Movies",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 128,
+    "__1": "Bolta News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 129,
+    "__1": "P Film",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 130,
+    "__1": "Filmy World",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 131,
+    "__1": "Eye TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 132,
+    "__1": "Movie Max",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "031 C 4054 V 7000 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S PTV Network, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 133,
+    "__1": "PTV National",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 134,
+    "__1": "PTV feed",
+    "__2": "F",
+    "__3": "BISS"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 135,
+    "__1": "PTV feed",
+    "__2": "F",
+    "__3": "BISS"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "032 C 4060 V 5000 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 136,
+    "__1": "Peace TV Urdu HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 137,
+    "__1": "Peace TV English HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "033 C 4073 V 6150 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 138,
+    "__1": "AAJ News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 139,
+    "__1": "Aaj Entertainment",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 140,
+    "__1": "Play TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "034 C 4085 V 3460 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 141,
+    "__1": "GTV News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "035 C 4086 V 2800 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 142,
+    "__1": "Dawn News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "036 C 4089 V 3333 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 143,
+    "__1": "Express 7/24",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "037 C 4093 V 2525 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 144,
+    "__1": "Awaz TV Network",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "038 C 4101 H 4340 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 145,
+    "__1": "K21 News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 146,
+    "__1": "Raavi TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "039 C 4114 V 5700 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 147,
+    "__1": "TV One Global",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 148,
+    "__1": "News One",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 149,
+    "__1": "Waseb TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "040 C 4125 V 6400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 150,
+    "__1": "AVT Khyber",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 151,
+    "__1": "Khyber News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 152,
+    "__1": "Kay 2",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 153,
+    "__1": "Khyber ME",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "041 C 4133 V 2000 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 154,
+    "__1": "Lahore Rang HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "042 C 4138 V 3000 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 155,
+    "__1": "Mashriq TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "043 C 4144 V 5700 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 156,
+    "__1": "Indus News",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "044 C 4157 V 9833 None Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 HUM TV Network, EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 157,
+    "__1": "Hum TV feed",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 158,
+    "__1": "Hum Masala",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 159,
+    "__1": "Hum Sitaray",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 160,
+    "__1": "Hum TV MENA HD",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 161,
+    "__1": "Hum TV HD",
+    "__2": "TV",
+    "__3": "Conax"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "045 C 4184 V 2800 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C QPSK DVB-S2 EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 162,
+    "__1": "Capital News TV",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "046 Ku 12604 H 29000 3/4 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7106\" ext:qtip=\"Ku-band Pakistan, Central/South Asia beam\n\">Ku 8PSK DVB-S2 Paksat (SUPARCO), EIRP",
+    "__1": "",
+    "__2": "",
+    "__3": ""
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": "",
+    "__1": "Channel",
+    "__2": "T",
+    "__3": "Encryption"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 163,
+    "__1": "Dunya News HD",
+    "__2": "TV",
+    "__3": "FTA"
+  },
+  {
+    "": "",
+    "001 C 3719 V 14400 3/5 Paksat-1R (38° E) <a class=\"link\" href=\"/footprints?beam=7107\" ext:qtip=\"C-band High Power beam\n\">C 8PSK DVB-S2 EIRP": 164,
+    "__1": "92 News HD Plus",
+    "__2": "TV",
+    "__3": "FTA"
+  }
+]
